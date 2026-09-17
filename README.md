@@ -91,6 +91,13 @@
 | **🌐 Nexus Digital Agency** | Multi-page, high-converting agency website with modern aesthetics, performance optimization, and review systems. | `HTML5`, `CSS3`, `JavaScript`, `Vercel` | [Live Site](https://nexusdigital.net.in) |
 | **💬 WA Outreach Engine** | Full-stack WhatsApp Web automation and outreach platform with QR login, real-time socket events, and message handling. | `Node.js`, `Express`, `Baileys`, `Socket.io` | [Source Code](https://github.com/nexusdeveloper491/NexusDigital-wa-outreach) |
 
+<br>
+<div align="center">
+  <a href="https://github.com/nexusdeveloper491?tab=repositories">
+    <img src="https://img.shields.io/badge/👉%20See%20All%20Projects%20in%20Repositories-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="See all projects in repo" />
+  </a>
+</div>
+
 ---
 
 ### 📊 GitHub Activity & Stats
