@@ -94,10 +94,12 @@
 ---
 
 ### 📊 GitHub Activity & Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nexusdeveloper491&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Sandip's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusdeveloper491&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nexusdeveloper491&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Sandip's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nexusdeveloper491&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=nexusdeveloper491&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
