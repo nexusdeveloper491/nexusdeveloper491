@@ -4,8 +4,8 @@
 ### Full-Stack Developer • Founder @ [Nexus Digital](https://nexusdigital.net.in) • Automation & UI/UX Specialist
 
 [![Website](https://img.shields.io/badge/Website-nexusdigital.net.in-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nexusdigital.net.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/company/nexus-digital2/))
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://wa.me/](https://wa.me/919475320402))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nexus-digital2/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919475320402)
 
 ---
 
